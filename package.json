@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/wavilikhin/codesandbox-theme"
+  },
   "contributes": {
     "themes": [
       {
