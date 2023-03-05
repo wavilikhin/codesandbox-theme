@@ -1,0 +1,22 @@
+{
+  "name": "codesandbox-tweaked",
+  "displayName": "codesandbox-tweaked",
+  "description": "A little bit tweaked version of the codesandbox official theme",
+  "version": "0.0.1",
+  "publisher": "VladislavVavilikhin",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codesandbox tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codesandbox tweaked-color-theme.json"
+      }
+    ]
+  }
+}
